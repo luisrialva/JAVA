@@ -1,5 +1,5 @@
 
-public class class2day1 {
+public class face {
 
 	public static void main(String[] args) {
 		
