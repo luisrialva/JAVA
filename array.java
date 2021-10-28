@@ -1,5 +1,5 @@
 
-public class class2day3 {
+public class array {
  
 	static int[] grades = new int[5];
 	public static void main(String[] args) {
