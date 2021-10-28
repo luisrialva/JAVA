@@ -1,5 +1,5 @@
 
-public class day2 {
+public class matrix1 {
 
 	public static void main(String[] args) {
 		
