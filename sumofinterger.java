@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class class2problem1 {
+public class sumofinterger {
 
 	public static void main(String[] args) {
 	
