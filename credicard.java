@@ -2,7 +2,7 @@ package class2week11;
 
 import java.util.Scanner;
 
-public class day2probelm2 {
+public class creditcard {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
