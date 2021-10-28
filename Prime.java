@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class class1problem3 {
+public class Prime {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
